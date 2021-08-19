@@ -1,0 +1,18 @@
+
+#container{
+    border:5px solid black;
+    height: 250px;
+    width:750px;
+    text-align: center;
+    margin:0 auto;
+}
+#btn{
+    margin:50px auto;
+    height:50px;
+    border:2px solid black;
+    font-size: 25px;
+    background-color: cornsilk;
+}
+#output{
+    font-size: 22px;
+}
